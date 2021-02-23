@@ -1,0 +1,6 @@
+print("Enter a number under 20")
+if number >20:
+   print("Thanks)
+if number<20:
+print(" number too big")
+   
