@@ -1,0 +1,8 @@
+weather=str(input("is it raining today?").lower()
+
+windy==str(input("is it windy today?")
+if weather=="yes"
+  print("wear a coat")
+  
+if windy== "Yes"
+  print("it is too windy for an umbrella")
